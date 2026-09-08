@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codexa-jo7.github.io/city-fries/sitemap.xml
